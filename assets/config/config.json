@@ -1,0 +1,11 @@
+{
+    "oAuthConfig": {
+        "baseUrl": "http://laravel.geethanjaliapp.com/api"
+    },
+    "networkConfig": {
+        "connectionTimeout": 10000,
+        "receiveTimeout": 10000
+    },
+    "androidConfiguration": {},
+    "iosConfiguration": {}
+}
